@@ -1,0 +1,13 @@
+/* 
+    Document   : error
+    Created on : 4-nov-2018, 12.11.40
+    Author     : Marco C
+*/
+
+html, body {
+    width:1280px;
+    height:auto;
+}
+body{
+    background-color: white;
+}
